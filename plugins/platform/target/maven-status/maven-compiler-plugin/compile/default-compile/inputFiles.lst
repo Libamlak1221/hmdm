@@ -1,0 +1,16 @@
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\persistence\PluginDAO.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\PluginConfiguration.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\PluginList.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\service\PluginStatusCache.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\rest\PluginResource.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\persistence\mapper\PluginMapper.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\guice\module\PluginLiquibaseResourceAccessor.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\guice\module\PluginPersistenceModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\guice\module\PluginLiquibaseModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\persistence\domain\Plugin.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\persistence\CustomerCreatedEventListener.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\PluginTaskModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\guice\module\PluginRestModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\guice\module\PluginPlatformTaskModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\persistence\domain\DisabledPlugin.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\platform\src\main\java\com\hmdm\plugin\rest\PluginAccessFilter.java

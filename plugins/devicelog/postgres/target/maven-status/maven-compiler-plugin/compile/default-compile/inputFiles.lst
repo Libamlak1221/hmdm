@@ -1,0 +1,11 @@
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\guice\module\DeviceLogPostgresTaskModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\guice\module\DeviceLogPostgresLiquibaseModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\guice\module\DeviceLogPostgresServiceModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\dao\PostgresDeviceLogDAO.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\guice\module\DeviceLogPostgresPersistenceModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\dao\domain\PostgresDeviceLogPluginSettings.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\dao\PostgresDeviceLogPluginSettingsDAO.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\DeviceLogPostgresPersistenceConfiguration.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\dao\domain\PostgresDeviceLogRecord.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\dao\domain\PostgresDeviceLogRule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\devicelog\postgres\src\main\java\com\hmdm\plugins\devicelog\persistence\postgres\dao\mapper\PostgresDeviceLogMapper.java

@@ -1,0 +1,10 @@
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\persistence\mapper\MessageMapper.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\guice\module\MessagingPersistenceModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\rest\json\SendRequest.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\guice\module\MessagingRestModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\persistence\domain\Message.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\persistence\MessagingDAO.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\rest\MessagingResource.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\rest\json\MessageFilter.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\guice\module\MessagingLiquibaseModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\messaging\src\main\java\com\hmdm\plugins\messaging\MessagingPluginConfigurationImpl.java

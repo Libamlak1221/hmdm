@@ -1,0 +1,16 @@
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\filter\ServletResponseAuditWrapper.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\persistence\mapper\AuditMapper.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\guice\module\AuditLiquibaseModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\persistence\domain\AuditLogRecord.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\AuditResource.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\persistence\AuditDAO.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\filter\ResourceAuditor.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\guice\module\AuditConfigureModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\filter\AuditFilter.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\guice\module\AuditPersistenceModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\filter\ServletOutputStreamWrapper.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\filter\ServletRequestAuditWrapper.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\guice\module\AuditRestModule.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\filter\ResourceAuditInfo.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\rest\json\AuditLogFilter.java
+C:\Users\libam\OneDrive\Desktop\Desktop\hmdm-server\plugins\audit\src\main\java\com\hmdm\plugins\audit\AuditPluginConfigurationImpl.java
